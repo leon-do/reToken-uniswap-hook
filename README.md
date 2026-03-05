@@ -1,7 +1,6 @@
 # reToken Uniswap Hook
 
-<img width="1800" height="1804" alt="Screenshot 2026-03-05 at 8 11 44 AM" src="https://github.com/user-attachments/assets/e3dd9cc2-6a9c-4d10-ad9c-56fa5623ad5f" />
-
+<img width="1804" height="1800" alt="558747898-e3dd9cc2-6a9c-4d10-ad9c-56fa5623ad5f" src="https://github.com/user-attachments/assets/9eb14931-dd19-4d69-924b-cfde9015c45f" />
 
 ## Overview
 
