@@ -1,5 +1,8 @@
 # reToken Uniswap Hook
 
+<img width="1800" height="1804" alt="Screenshot 2026-03-05 at 8 11 44 AM" src="https://github.com/user-attachments/assets/e3dd9cc2-6a9c-4d10-ad9c-56fa5623ad5f" />
+
+
 ## Overview
 
 reToken is a synthetic token minted every time a user swaps on a specific pool.
